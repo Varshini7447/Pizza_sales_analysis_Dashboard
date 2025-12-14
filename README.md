@@ -1,2 +1,25 @@
-# Pizza_sales_analysis_Dashboard
-Excel dashboard built using SQL server data.
+# Pizza Sales Dashboard (Excel + SQL Server)
+
+##  Project Overview
+This project analyzes pizza sales data using SQL Server and presents insights through an interactive Excel dashboard.
+
+##  Tools Used
+- SQL Server Management Studio (SSMS 2021)
+- Microsoft Excel (Pivot Tables, Charts, Timeline)
+- SQL (CTEs, Aggregations, Joins)
+
+##  Key Insights
+- Total revenue, total orders, and average order value
+- Sales trends by day and hour
+- Sales contribution by pizza category and size
+- Best and worst-selling pizzas
+
+## 🔗 Dashboard Preview
+
+
+
+##  How to Use
+1. Run SQL queries in SSMS
+2. Export results to Excel
+3. Refresh Pivot Tables and Timeline
+
