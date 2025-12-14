@@ -6,7 +6,7 @@ This project analyzes pizza sales data using SQL Server and presents insights th
 ##  Tools Used
 - SQL Server Management Studio (SSMS 2021)
 - Microsoft Excel (Pivot Tables, Charts, Timeline)
-- SQL (CTEs, Aggregations, Joins)
+- SQL Queries
 
 ##  Key Insights
 - Total revenue, total orders, and average order value
