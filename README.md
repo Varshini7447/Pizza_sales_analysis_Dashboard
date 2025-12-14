@@ -15,8 +15,7 @@ This project analyzes pizza sales data using SQL Server and presents insights th
 - Best and worst-selling pizzas
 
 ## 🔗 Dashboard Preview
-
-
+https://www.linkedin.com/posts/varshinikakarla7447_dataanalytics-exceldashboard-sqlserver-activity-7405907656403509248-2fQG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFHYqrIB162jtzfNuqymoRcdRSF1IbpfkZc.
 
 ##  How to Use
 1. Run SQL queries in SSMS
